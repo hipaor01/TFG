@@ -1,1 +1,1 @@
-# TFG
+Repositorio de mi Trabajo de Fin de Doble Grado en Ingeniería Informática y Matemáticas por la Universidad de Granada. El repositorio contiene tanto la memoria del proyecto como los diferentes archivos de Python asociados. 
